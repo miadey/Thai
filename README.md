@@ -1,6 +1,6 @@
 # Welcome to the Thai Stack!
 
-This project uses an innovative blend of technologies known as the "Thai Stack", which includes Tailwind CSS, Htmx, Alpine.js, and the Internet Computer using Motoko.
+This project uses an innovative blend of technologies known as the "Thai Stack", which includes Tailwind CSS, Htmx, Alpine.js, and the Internet Computer using Motoko for developping full stack apps on the blockchain.
 
 - **Tailwind CSS**: A utility-first CSS framework that helps us build custom, responsive user interfaces quickly and efficiently.
 
