@@ -130,7 +130,7 @@ module {
     var deleteRequests = HashMap.StableHashMap<Text, HttpFunction>(0, Text.equal, Text.hash);
 
 
-    private func process_request(req : Request) : Response {
+     func process_request(req : Request) : Response {
       Debug.print("Processing request: " # debug_show req.url.original);
       Debug.print("Method: " # req.method);
       Debug.print("Path: " # req.url.path.original);

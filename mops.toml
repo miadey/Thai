@@ -1,0 +1,6 @@
+[dependencies]
+base = "0.8.7"
+server = "0.2.0"
+certified-cache = "0.2.0"
+assets = "0.2.0"
+"http-parser.mo" = "https://github.com/NatLabs/http-parser.mo#v0.1.1"

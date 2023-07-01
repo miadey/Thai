@@ -1,0 +1,11 @@
+get html file into a Blob
+html file include variable in {{  }}
+replace variable with content
+
+<template> 
+
+<p slot="">
+</p>
+</template>
+
+<link rel="import" href="myfile.html">

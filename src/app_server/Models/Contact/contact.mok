@@ -1,0 +1,39 @@
+/* import Debug "mo:base/Debug";
+import Array "mo:base/Array";
+
+actor {
+
+    type ContactType = {
+        name : Text;
+        email : Text;
+        imgUrl : Text;
+        title : Text;
+        state : Text;
+    };
+    
+    var contactStorage : [Nat]=[];
+ 
+    public shared query func newContact() : async () {
+        let ContactToAdd : ContactType = {
+            name = "name";
+            email = "email";
+            imgUrl = "imgUrl";                                      
+            title = "title";
+            state = "state";
+        };
+
+        //contactStorage := List.push(ContactToAdd, contactStorage);
+        contactStorage := Array.append([8],contactStorage);
+    };   
+
+    public shared func getContactStorage(page : Nat8) : async [Nat] {
+        Debug.print("YOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYOYO");
+        contactStorage;
+    };
+    
+};
+
+
+
+
+ */
