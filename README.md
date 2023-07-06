@@ -13,3 +13,8 @@ This project uses an innovative blend of technologies known as the "Thai Stack",
 This unique tech stack allows us to create a secure, scalable backend, while also focusing on a clean, easy-to-use, and interactive frontend. Whether you're a seasoned developer or just starting out, we hope you find the Thai Stack approach as exciting as we do.
 
 Please feel free to explore the code and contribute. Happy coding!
+
+# Fast start
+The Thai stack is a minimalist MVC development framework aiming at lowering the entry to blockchain development. 
+
+
